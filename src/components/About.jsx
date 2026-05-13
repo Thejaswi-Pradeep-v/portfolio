@@ -30,7 +30,7 @@ const About = () => {
                   aria-hidden
                 />
                 <img
-                  src="/profile.png"
+                  src="/profile.png?v=20260513"
                   alt="Thejaswi Pradeep"
                   className="relative w-44 h-44 sm:w-52 sm:h-52 rounded-full object-cover ring-2 ring-slate-700/80 shadow-2xl"
                   width={208}
